@@ -16,6 +16,7 @@
   <div align="left">
   <img align="center" alt="felipe-linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="felipe-fedora" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
+  <img align="center" alt="felipe-arch" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   <img align="center" alt="felipe-debian" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="felipe-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="felipe-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
