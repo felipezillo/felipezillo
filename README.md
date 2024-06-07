@@ -12,8 +12,8 @@
 
 <div>
   <h1>💻 Technologies</h1>
-  <img align="left" src="https://images-ext-1.discordapp.net/external/TF4OJw4g5Tg4sewJJlA8hM55BABBURvJ8T1qPiTmRUE/https/media1.tenor.com/m/bdXrzy-_-LMAAAAd/sage-dance-funny-dance.gif?width=300&height=300">
-  <div align="right">
+  <img align="right" src="https://images-ext-1.discordapp.net/external/TF4OJw4g5Tg4sewJJlA8hM55BABBURvJ8T1qPiTmRUE/https/media1.tenor.com/m/bdXrzy-_-LMAAAAd/sage-dance-funny-dance.gif?width=200&height=200">
+  <div align="left">
   <img align="center" alt="felipe-linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="felipe-fedora" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
   <img align="center" alt="felipe-arch" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
